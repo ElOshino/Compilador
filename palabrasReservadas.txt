@@ -1,0 +1,4 @@
+operadoresAritmeticos:+,-,/,*
+palabrasReservadas:PROGRAMA,VARIABLE,ENTERO,REAL,CADENA,INICIO,LEA,ESCRIBA,SI,MIENTRAS,TERMINA,IMPRIMA
+operadoresLogicos:<,>,==,>=,<=,=!,|,&&
+llaves:(,),{,}

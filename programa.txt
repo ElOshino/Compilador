@@ -1,0 +1,8 @@
+PROGRAMA prueba
+VARIABLE CADENA a
+INICIO
+	IMPRIMA('Digite Nombre')
+	LEA(a)
+	IMPRIMA('Hola ')
+	IMPRIMA(a)
+TERMINA
